@@ -6,5 +6,8 @@ System.out.print(num[10]);
 }catch (Exception e){
 System.out.print("Something went wrong");
 }
+finally{
+System.out.print("The try and catch is finished");
+}
 }
 }
